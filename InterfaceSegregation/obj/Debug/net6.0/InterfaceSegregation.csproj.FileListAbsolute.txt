@@ -1,0 +1,15 @@
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.exe
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.deps.json
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.runtimeconfig.json
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\refint\InterfaceSegregation.dll
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.genruntimeconfig.cache
+C:\Users\Shubham.Pathania\SolidPrinciple\InterfaceSegregation\obj\Debug\net6.0\ref\InterfaceSegregation.dll
